@@ -86,6 +86,7 @@ function sendOne(templateName, options, data, callback){
  */
 controller.sendVerificationEmail = function(email, token, callback) {
 
+  console.log("***************verify-email******************")
   var options = {
     to: email,
     subject: "[HACKATHON] - Verify your email"
