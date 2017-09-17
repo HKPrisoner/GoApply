@@ -1,2 +1,2 @@
 # GoApply
-Apply system for GoWest
+Apply system for GoWest!
