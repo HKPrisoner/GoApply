@@ -35,7 +35,14 @@
 
     &.logo {
       opacity: 1;
-      padding: 48px;
+      //padding: 48px;
+      max-width: 200px;
+      margin: 15px;
+      //margin: .5rem auto 2rem auto;
+      img {
+        width: 200px;
+        height: 134px;
+      }
     }
 
   }
